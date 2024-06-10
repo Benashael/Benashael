@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hey there! 👋 Welcome to Ben Ashael's GitHub Profile! 🚀
+
+## About Me ℹ️
+I'm a 💻 Data Science Student passionate about 🌟 Data Science and Artificial Intelligence. I enjoy building 🛠️ projects that automate and predict in various domains while exploring new technologies. 🌈
 
 <!--
 **Benashael/Benashael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
