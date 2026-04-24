@@ -23,7 +23,7 @@ I'm a **developing Data Science practitioner** passionate about using data, code
 | **ML & AI**     | Scikit-learn, TensorFlow, NLTK, OpenCV |
 | **Visualization** | Matplotlib, Seaborn, Power BI, Tableau |
 | **Web App Dev** | Streamlit |
-| **Database**    | MySQL |
+| **Database**    | MySQL, DB2, Snowflake |
 | **Version Control** | Git, GitHub |
 
 ---
