@@ -1,7 +1,7 @@
 # 👋 Hey there! Welcome to Ben Ashael's GitHub Profile 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ben+Ashael+%F0%9F%91%8B;Data+Science+Explorer+%7C+AI+Learner+%F0%9F%8C%9F;Building+projects+%7C+Solving+real+problems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Ben+Ashael+%F0%9F%91%8B;Data+Science+Explorer+%7C+AI+Learner+%F0%9F%8C%9F;Building+projects+%7C+Solving+real+problems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
