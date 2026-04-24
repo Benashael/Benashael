@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 I'm a **developing Data Science practitioner** passionate about using data, code, and creativity to solve meaningful problems.  
-💼 Currently working as an **Intern at Mastech Digital**, gaining real-world experience in enterprise data workflows and analytics.  
+💼 Currently working as an **Associate at Mastech Digital**, gaining real-world experience in enterprise data workflows and analytics.  
 🧠 I love building tools that automate, predict, and simplify — especially with **Machine Learning**, **NLP**, and **Data Visualization**.  
 🌱 Always exploring new technologies and improving my end-to-end project development skills.
 
@@ -19,7 +19,7 @@ I'm a **developing Data Science practitioner** passionate about using data, code
 
 | Area            | Tools & Technologies |
 |-----------------|----------------------|
-| **Languages**   | Python, Java, SQL |
+| **Languages**   | Python, Java, SQL, XML, Shell Scripting |
 | **ML & AI**     | Scikit-learn, TensorFlow, NLTK, OpenCV |
 | **Visualization** | Matplotlib, Seaborn, Power BI, Tableau |
 | **Web App Dev** | Streamlit |
@@ -49,6 +49,7 @@ I'm a **developing Data Science practitioner** passionate about using data, code
 ## 🧩 Featured Projects
 
 🚀 Currently working on and improving:
+- 🌐 **AI Nexus Hub** – Where Intelligence Meets Innovation, Simplifying the Future with Every Click
 - 🔍 **AutoNLP Toolkit** – Text processing and ML pipeline  
 - 📈 **TradeLens** – Stock price forecasting and insights  
 - 🧠 **TextTrac** – Smart analytics for unstructured data  
@@ -60,9 +61,5 @@ I'm a **developing Data Science practitioner** passionate about using data, code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/benashael)  
 📫 **Email:** [benashael@gmail.com](mailto:benashael@gmail.com)
-
----
-
-> _“The best way to predict the future is to invent it.” – Alan Kay_
 
 ---
