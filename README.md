@@ -17,13 +17,17 @@ I'm a **developing Data Science practitioner** passionate about using data, code
 
 ## 🚀 Tech Stack
 
-| Area            | Tools & Technologies |
-|-----------------|----------------------|
-| **Languages**   | Python, Java, SQL, XML, Shell Scripting |
-| **ML & AI**     | Scikit-learn, TensorFlow, NLTK, OpenCV |
-| **Visualization** | Matplotlib, Seaborn, Power BI, Tableau |
-| **Web App Dev** | Streamlit |
-| **Database**    | MySQL, DB2, Snowflake |
+| Area                | Tools & Technologies |
+|---------------------|----------------------|
+| **Languages**       | Python, SQL, Java, XML, Shell Scripting |
+| **Frameworks & AI** | Pandas, NumPy, Scikit-learn, NLTK, OpenCV, Transformers, Keras, TensorFlow, LangChain, LlamaIndex |
+| **Visualization**   | Matplotlib, Power BI, Tableau |
+| **Data & Platforms**| Databricks, Apache Spark, Microsoft Azure |
+| **Web App Dev**     | Streamlit |
+| **Databases**       | MySQL, IBM DB2, Snowflake |
+| **Tools**           | Jupyter Notebook, GitHub, Postman, PuTTY, IBM DataStage, IBM MDM AE, Reltio |
+| **Technologies**    | Machine Learning, Deep Learning, NLP, Computer Vision, RAG, Generative AI, Agentic AI, Batch Processing, Real-Time Streaming (Kafka) |
+| **Domains**         | Master Data Management (MDM), Banking & Financial Services, Data Science |
 | **Version Control** | Git, GitHub |
 
 ---
